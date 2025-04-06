@@ -37,7 +37,8 @@ Repository Structure
  •	README.md: This file, detailing the project overview, methodology, and instructions.
 	
  •	weather_map.html: An interactive map displaying geographical patterns in the weather data.
- .      deatiled_project_report.pdf : A complete report and analysis of the Assessment
+ 
+ •    deatiled_project_report.pdf : A complete report and analysis of the Assessment
  	
   
   1.	Open and run the Advanced_Assessment.ipynb  notebook on colab to reproduce the analyses.
