@@ -27,7 +27,7 @@ Building and comparing ARIMA and Prophet models to forecast weather trends. An e
  •	Geographical Patterns: Comparing weather conditions across countries and continents.
 	
  •	PM Accelerator Mission:
-The PM Accelerator mission is prominently featured in the project report, aligning our analytical approach with strategic project management and acceleration objectives.
+The PM Accelerator mission is prominently featured in the Advanced_Assessment.ipynb , aligning our analytical approach with strategic project management and acceleration objectives.
 
 
 Repository Structure
@@ -36,7 +36,7 @@ Repository Structure
 	
  •	README.md: This file, detailing the project overview, methodology, and instructions.
 	
- •	spatial_analysis_map.html: An interactive map displaying geographical patterns in the weather data.
+ •	weather_map.html: An interactive map displaying geographical patterns in the weather data.
  	
   
   1.	Open and run the Advanced_Assessment.ipynb  notebook on colab to reproduce the analyses.
